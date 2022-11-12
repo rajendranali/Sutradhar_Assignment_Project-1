@@ -3,7 +3,12 @@
 # Getting Started with Create React App
 # Teck stack :Reactjs ,MUI for desinging
 
+> Live demo Vercel: [_here_](https://sutradhar.vercel.app/). <!-- If you have the project hosted somewhere, include the link here. -->
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## DESIGN OUTLOOK
+
+![Screenshot (69)](https://github.com/rajendranali/fleet-cap-5913/blob/main/freshly/public/Screenshot%20(139).png)
 
 ## Available Scripts
 
