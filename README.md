@@ -1,6 +1,6 @@
 
 # Sutradhar_Assignment-_Project-1
-# Getting Started with Create React App
+
 # Teck stack :Reactjs ,MUI for desinging
 
 > Live demo Vercel: [_here_](https://sutradhar.vercel.app/). <!-- If you have the project hosted somewhere, include the link here. -->
