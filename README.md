@@ -8,7 +8,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## DESIGN OUTLOOK
 
-![Screenshot (69)](https://github.com/rajendranali/fleet-cap-5913/blob/main/freshly/public/Screenshot%20(139).png)
+![Screenshot (69)](https://raw.githubusercontent.com/rajendranali/Sutradhar_Assignment_Project-1/c47f25d87a82edacded376cc2a72834359efa915/sutradhar/public/Screenshot%20(185).png)
 
 ## Available Scripts
 
